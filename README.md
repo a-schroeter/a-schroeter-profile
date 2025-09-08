@@ -27,6 +27,6 @@ Master’s Degree in Physics, 1996
 Specialized in Mathematical Modeling of Physical Processes, GPA: 3.41                   
 
 
-Languages
+Languages:                       
 English, German, Russian
 
